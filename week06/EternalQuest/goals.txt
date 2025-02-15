@@ -1,0 +1,4 @@
+0,1,0,1/1/0001 12:00:00 AM
+EternalGoal:Give a talk,Talk at the sacrament meeting,50
+EternalGoal:Give a talk,Talk at the sacrament meeting,50
+NegativeGoal:Drinking,To Drink alcohol,20
