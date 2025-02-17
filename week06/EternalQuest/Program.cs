@@ -120,3 +120,6 @@ class Program
         Console.ReadLine();
     }
 }
+
+// Added creativity like Negative Goals where you loose points for doing those
+// Also added leveling up for earning bonuses
